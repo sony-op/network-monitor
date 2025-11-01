@@ -1,0 +1,5 @@
+IP,MAC,Status,Timestamp
+192.168.1.1,14:c3:5e:07:d0:c4,Online,Sat Nov  1 10:33:01 2025
+192.168.1.34,fa:e5:d2:4e:17:fa,Online,Sat Nov  1 10:33:01 2025
+192.168.1.43,06:86:5b:a6:6d:c6,Online,Sat Nov  1 10:33:01 2025
+192.168.1.48,0a:af:91:f1:1d:ea,Offline,Sat Nov  1 10:33:11 2025
